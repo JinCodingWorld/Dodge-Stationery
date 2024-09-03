@@ -10,7 +10,18 @@
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 
-
+// 폴더 무시
+AnimeGirls/
+CyberWare - Game Music Assets/
+FORMAL_AVATAR/
+FREE CASUAL MUSIC PACK/
+JMO Assets/
+Low Poly Sylized Gun Demo/
+RPG Music Starter Pack/
+school/
+Simple Buttons/
+TirgamesAssets/
+TopDown 2D RPG BE3/
 *.png
 *.tga
 *.wav
